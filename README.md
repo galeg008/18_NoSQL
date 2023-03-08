@@ -23,6 +23,7 @@ you must use Insomnia or another platform. The following video will demonstrate 
 
 
 Demo Video
+https://youtu.be/6rby6-TRg70
 
 Summary
 
